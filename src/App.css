@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+.App-header {
+  background-color: #182c34;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+p {
+  background-color: #1cfff;
+  padding: 300px;
+  font-size: 15px;
+  border-radius: 5px;
+  margin-left: 35px;
+}
+
+button {
+  background-color: #61dafb;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  border: 3px solid green;
+  position: relative;
+  margin-top: auto;
+  margin-left: 845px;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
